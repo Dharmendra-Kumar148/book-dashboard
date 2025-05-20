@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "year": 1949,
+      "status": "Available"
+    },
+    {
+      "id": "a008",
+      "status": "available",
+      "year": 2002,
+      "genre": "Dystopian",
+      "author": "Gulivar Travells",
+      "title": "1997"
+    }
+  ]
+}
